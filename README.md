@@ -11,6 +11,3 @@ Weights - Contains the weights of the Shell, Shucked, and Viscera.
 
 # Target Variable
 Age - Contains the Age of the Crustacean. This is the value that needs to be predicted..
-
-# Evaluation
-MSE : 4.90336
