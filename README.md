@@ -1,6 +1,5 @@
 # Overview
-This repository contains code for a machine learning regression problem focused on predicting the age of crustaceans based on a set of features.
-The goal is to develop an accurate model that can generalize well to predict the age of crustaceans given specific input features.
+This repository contains code for a machine learning regression problem aimed at predicting the age of crustaceans using a set of features. The goal is to create an accurate model that can reliably predict the age of crustaceans given specific input features.
 
 # Model
 GradientBoostRegressor
